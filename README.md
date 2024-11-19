@@ -20,9 +20,9 @@ The app covers:-
 
 1. Login to snowflake account with proper role.
 2. Run the Snowflake_setup.sql (you can also manually uplaod the app.py and environment.yml into a named internal stage )
-3. create the app using the sql in the Snowflake_setup.sql and you are ready to use the app.
+3. Create the app using the sql in the Snowflake_setup.sql and you are ready to use the app.
 
-4. 
+
 
 
 

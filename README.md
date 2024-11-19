@@ -1,6 +1,6 @@
 # Snowflake_Security_Ninja_app
 
-This app is based on the project (Snow Sentry)[https://quickstarts.snowflake.com/guide/security_dashboards_for_snowflake/index.html#0] which was developed to help the customer to know how secure is their snowflake account.
+This app is based on the project [Snow Sentry](https://quickstarts.snowflake.com/guide/security_dashboards_for_snowflake/index.html#0) which was developed to help the customer to know how secure is their snowflake account.
 Snowflake customer who wants to gain a deeper understanding of their Snowflake account. 
 The app covers :- 
  
